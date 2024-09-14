@@ -1,9 +1,10 @@
 hola hola hola hola
 prueba esme
+<<<<<<< HEAD
+=======
 prueba3 ya perdon es la ultima lo prometo
 EL youka is here
 
 
 
 YA SE RESOLVIO????
-si ya xd esto ess desde mi branch
